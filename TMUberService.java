@@ -4,7 +4,7 @@
  * 
  * This class is made abstract since we never create an object.
  */
-// Talhah Abid - 501 254 597
+
 abstract public class TMUberService implements Comparable<TMUberService>
 {
   
