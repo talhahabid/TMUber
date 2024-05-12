@@ -4,7 +4,6 @@
  * 
  * A TMUberDelivery is-a TMUberService with some extra functionality
  */
-// Talhah Abid - 501 254 597
 public class TMUberDelivery extends TMUberService
 {
   public static final String TYPENAME = "DELIVERY";
