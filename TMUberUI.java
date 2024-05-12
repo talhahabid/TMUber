@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 import java.util.StringTokenizer;
-// Talhah Abid - 501 254 597
+
 // Simulation of a Simple Command-line based Uber App 
 
 // This system supports "ride sharing" service and a delivery service
