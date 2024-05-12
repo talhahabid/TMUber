@@ -1,27 +1,21 @@
-// Talhah Abid - 501 254 597
 import java.util.Arrays;
 import java.util.Scanner;
 
 // The city consists of a grid of 9 X 9 City Blocks
-
 // Streets are west-east (1st street to 9th street)
 // Avenues are south-north (1st avenue to 9th avenue)
-
 // Example 1 of Interpreting an address:  "34 4th Street"
 // A valid address always has 3 parts.
 // Part 1: Street/Avenue residence numbers are always 2 digits (e.g. 34).
 // Part 2: Must be 'n'th or 1st or 2nd or 3rd (e.g. n = 4)
 // Part 3: Must be "Street" or "Avenue" (case insensitive)
-
 // Use the first digit of the residence number (e.g. 3 of the number 34) to determine the avenue.
 // For distance calculation you need to identify the the specific city block - in this example 
 // it is city block (3, 4) (3rd avenue and 4th street)
-
 // Example 2 of Interpreting an address:  "51 7th Avenue"
 // Use the first digit of the residence number (i.e. 5 of the number 51) to determine street.
 // For distance calculation you need to identify the the specific city block - 
 // in this example it is city block (7, 5) (7th avenue and 5th street)
-//
 // Distance in city blocks between (3, 4) and (7, 5) is then == 5 city blocks
 
 public class CityMap
