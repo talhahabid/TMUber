@@ -2,7 +2,6 @@
  * 
  * This class simulates a car driver in a simple Uber-like app 
  */
-// Talhah Abid - 501 254 597
 public class Driver
 {
   private String id;
