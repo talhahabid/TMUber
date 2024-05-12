@@ -4,7 +4,6 @@
  * 
  * A TMUberRide is-a TMUberService with some extra functionality
  */
-// Talhah Abid - 501 254 597
 public class TMUberRide extends TMUberService
 {
   private int numPassengers;
