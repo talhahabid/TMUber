@@ -2,7 +2,7 @@
  * 
  * Class that simulates a user of a simple Uber app
  */
-// Talhah Abid - 501 254 597
+
 public class User
 {
   private String accountId;  
