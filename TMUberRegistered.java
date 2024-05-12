@@ -1,4 +1,3 @@
-// Talhah Abid - 501 254 597
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
