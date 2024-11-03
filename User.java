@@ -1,5 +1,4 @@
 /*
- * 
  * Class that simulates a user of a simple Uber app
  */
 
